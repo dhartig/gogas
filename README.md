@@ -28,7 +28,7 @@ gogas [options] <projectname>
 
   ```
 
-<projectname> is the name on the library or script project on Google drive.
+**projectname** is the name on the library or script project on Google drive.
 
 ## First time use
 
