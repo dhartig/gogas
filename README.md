@@ -2,7 +2,7 @@
 
 **gogas** is tool (written in GO) for exporting and importing Google App Script files to/from a local directory.
 
-The tool is useful to those of use that prefer to use our own Javascript Editors and tools locally, rather than edit in Googles cloud based editor. (Also, you can put the code in a source control system)
+The tool is useful to those of us that prefer to use our own Javascript Editors and tools locally, rather than edit in Googles cloud based editor. (Also, you can put the code in a source control system)
 
 ## Installing
 
